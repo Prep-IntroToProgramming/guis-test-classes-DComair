@@ -19,7 +19,7 @@ public class ChallengeGui {
     int leftSide = 0;
     int rightSide = 0;
     String[] leftNames = {"Hot", "French", "Up", "Side to", "Cotton"};
-    String[] rightNames = {"Dog", "Fries", "Down", "Side", "Eye", "Candy"};
+    String[] rightNames = {"Dog", "Fries", "Down", "Side", "Eye Joe", "Candy"};
 
     public ChallengeGui() {
         right = new JButton("Right");
